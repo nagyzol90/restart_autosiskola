@@ -1,0 +1,98 @@
+a{
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-size: 1.25rem;
+    font-weight: bold;
+    color:  #276678;
+}
+
+body{
+    color: #F6F5F5;
+}
+
+h1 {
+    font-family: "Francois One";
+    font-size: 3rem;
+    line-height: 1;
+    margin: 1.5rem 0;
+    color:  #D3E0EA;
+}
+
+h2 {
+    font-family: "Francois One";
+    font-size: 1.75rem;
+    padding: 1rem 0;
+    color: #D3E0EA;
+}
+
+hr {
+    border-top: 10px dotted #276678;
+    margin: 75px auto;
+    width: 9%;
+}
+
+i{
+    font-size: 2rem;
+}
+
+p {
+    font-family: "Montserrat";
+    line-height: 1.5;
+    color: #F6F5F5;
+}
+
+.car-image {
+    max-width: 300px;
+}
+
+.card-header{
+    color: black;
+    font-weight: bold;
+}
+
+.card-text{
+    color: black;
+}
+
+.carousel-item{
+    object-fit: cover;
+    object-position: center;
+    height: 100vh;
+}
+
+.contact-item{
+    text-align: center;
+}
+
+.fa-facebook{
+    color: #D3E0EA;
+}
+
+.intro{
+    text-align: justify;
+}
+
+.logo{
+    height: 5rem;
+    width: auto;
+    z-index: 2;
+}
+
+.logo-intro{
+    height: 200px;
+    width: auto;
+}
+
+.nav-item{
+    padding: 0 1rem;
+}
+
+.shrinker {
+    padding: 3% 10%;
+    background-color: #1687A7;
+}
+
+.welcome-image {
+    margin-top: 100px;
+    width: 100%;
+}
